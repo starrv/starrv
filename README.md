@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @starrv
 - 👀 I’m interested in building applications using various programming languages and technologies
-- I love teaching technology to others
+- :green_book: I love teaching technology to others
 - 💞️ I’m looking to collaborate on various projects
 - 📫 You can reach me at starrv2011@gmail.com
 
