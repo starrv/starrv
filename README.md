@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @starrv
+- 👋 Hi, I’m Valencia
 - 👀 I’m interested in building applications using various programming languages and technologies
 - :green_book: I love teaching technology to others
 - 💞️ I’m looking to collaborate on various projects
